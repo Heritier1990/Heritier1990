@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Heritier1990
+- 🌱 I’m currently learning data science 
+- 💞️ I’m looking to collaborate on any project related to big data analysis or machine learning
+- 📫 You can reach reach me at bilichoud1990@gmail.com
+- 😄 You can call me Sims.
