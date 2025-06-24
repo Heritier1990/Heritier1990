@@ -7,6 +7,7 @@
 - 🧰 Databases: SQLite, MySQL 
 
 **You can reach reach me at:**
-- [Email](henrisimo1990@gmail.com)
-- [LinkedIn](www.linkedin.com/in/henrisimo)
+- Email:<henrisimo1990@gmail.com>
+- LinkedIn:<www.linkedin.com/in/henrisimo>
+- 
 
